@@ -1,0 +1,18 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npm run build && firebase deploy",
+            "statusMessage": "🚀 Building and deploying...",
+            "timeout": 300,
+            "async": true
+          }
+        ]
+      }
+    ]
+  }
+}

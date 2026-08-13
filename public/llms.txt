@@ -1,0 +1,27 @@
+# JL Soluções e Manutenções
+
+> Empresa de manutenção predial e industrial no Rio de Janeiro. Atua com
+> manutenção elétrica, civil, hidráulica, refrigeração e climatização (HVAC),
+> SPDA, alarmes, inversores de frequência, correção de fator de potência e
+> manutenção de máquinas. Atendimento a empresas em todo o estado do RJ, com
+> foco em manutenção preventiva para evitar paradas não programadas.
+
+## Contato
+
+- WhatsApp: https://wa.me/5521995931720
+- Telefone: (21) 99593-1720
+- E-mail: jlsolucoesemmanutencao@gmail.com
+- Endereço: Brás Cubas — Pavuna, Rio de Janeiro, RJ
+- Horário: segunda a sábado, das 08h às 18h
+
+## Seções do site
+
+- [Sobre nós](https://jlsolucoesemanutencoes.com.br/#sobre): história, missão, visão e valores da empresa
+- [Serviços](https://jlsolucoesemanutencoes.com.br/#serv): catálogo completo de serviços de manutenção
+- [Portfólio](https://jlsolucoesemanutencoes.com.br/#port): trabalhos executados, com fotos
+- [Depoimentos](https://jlsolucoesemanutencoes.com.br/#depo): avaliações de clientes
+
+## Pagamento
+
+- Cartão de crédito em até 12x sem juros
+- Pix à vista
