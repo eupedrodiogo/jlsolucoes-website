@@ -10,6 +10,7 @@ import { CTAFinal } from '@/components/sections/CTAFinal';
 import { WhatsAppFloat } from '@/components/ui/WhatsAppFloat';
 import { ScrollToTop } from '@/components/ui/ScrollToTop';
 import { ConsentBanner } from '@/components/ui/ConsentBanner';
+import { useScrollReveal } from '@/hooks/useScrollReveal';
 import { ProtectedRoute } from '@/components/layout/ProtectedRoute';
 
 // Lazy load para seções menos críticas (melhora o LCP)
@@ -35,6 +36,8 @@ function SectionFallback() {
 }
 
 function LandingPage() {
+  useScrollReveal();
+
   return (
     <div className="min-h-screen bg-white pb-16 lg:pb-0">
       <Navbar />
